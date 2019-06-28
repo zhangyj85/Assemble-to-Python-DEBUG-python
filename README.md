@@ -1,11 +1,14 @@
 # Assemble-to-Python-DEBUG-python
 In this work, we use python to implement the DEBUG which is an assemble language compiler
 
+
 Author: Zhang Yongjian, Zhou Lichao, Zheng Yuxi, Zhang Yuan, Zheng Zefeng
 
 Group work in Class Microcomputer Principle
 
+
 How to use (Command):
+
 
 -FILE: to compile a file
 
@@ -32,5 +35,6 @@ OR 目标操作数 源操作数
 XOR 目标操作数 源操作数
 
 NOT 目标操作数
+
 
 We will update our work in this summer holiday.
