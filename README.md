@@ -36,5 +36,6 @@ XOR 目标操作数 源操作数
 
 NOT 目标操作数
 
+We offer the file "test2.txt" to comfirm the command "-FILE" can be actually work. And this file is use to compute multiplication of 32 bit.
 
 We will update our work in this summer holiday.
